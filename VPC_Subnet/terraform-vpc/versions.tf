@@ -8,6 +8,6 @@ terraform {
   }
 }
 provider "aws" {
-  region  = var.region # Diese Terraform variable definieren wir im nächsten Schritt
+  region = var.region # Diese Terraform variable definieren wir im nächsten Schritt
 
 }
