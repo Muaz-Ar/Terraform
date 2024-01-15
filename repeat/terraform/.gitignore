@@ -1,0 +1,3 @@
+variables.tfvars
+.terraform.lock.hcl
+// git add -A --dry-rung test was in add kommt 
